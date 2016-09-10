@@ -11,11 +11,15 @@ public class ComputeChange {
     // Create a Scanner
     Scanner input = new Scanner(System.in);
 
-    // Receive the amount 
+    // Receive the amount
+    // System.out.print(
+    //   "Enter an amount in double, for example 11.56: ");
     System.out.print(
       "Enter an amount in int, for example 11.56 as 1156: ");
+    // double amount = input.nextDouble();
     int amount = input.nextInt();
 
+    // int remainingAmount = (int)(amount * 100);
     int remainingAmount = amount;
 
     // Find the number of one dollars
