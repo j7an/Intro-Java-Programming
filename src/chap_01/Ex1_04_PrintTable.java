@@ -7,7 +7,7 @@ a     a^2   a^3
 4     16    64
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_04_PrintTable {
   public static void main(String[] args) {

@@ -7,7 +7,7 @@ J   J  AAAAA    V V   AAAAA
  J J  A     A    V   A     A
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_03_DisplayPattern {
   public static void main(String[] args) {

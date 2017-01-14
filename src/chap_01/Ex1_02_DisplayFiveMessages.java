@@ -2,7 +2,7 @@
 Write a program that displays Welcome to Java five times.
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_02_DisplayFiveMessages {
   public static void main(String[] args) {

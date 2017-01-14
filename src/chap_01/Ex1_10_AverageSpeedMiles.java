@@ -4,7 +4,7 @@ that displays the average speed in miles per hour. (Note that 1 mile is 1.6
 kilometers.
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_10_AverageSpeedMiles {
   public static void main(String[] args) {

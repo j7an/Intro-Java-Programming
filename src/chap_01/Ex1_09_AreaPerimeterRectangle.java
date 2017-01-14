@@ -4,7 +4,7 @@ width of 4.5 and height of 7.9 using the following formula:
 area = width * height
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_09_AreaPerimeterRectangle {
   public static void main(String[] args) {

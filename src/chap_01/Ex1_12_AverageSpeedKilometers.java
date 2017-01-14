@@ -4,7 +4,7 @@ program that displays the average speed in kilometers per hour. (Note that 1
 mile is 1.6 kilometers.)
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_12_AverageSpeedKilometers {
   public static void main(String[] args) {

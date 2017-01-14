@@ -15,7 +15,7 @@ and y:
 2.1x + .55y = 5.9
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_13_LinearEquations {
   public static void main(String[] args) {

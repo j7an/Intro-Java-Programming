@@ -5,7 +5,7 @@ perimeter = 2 * radius * pi
 area = radius * radius * pi
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_08_AreaPerimeterCircle {
   public static void main(String[] args) {

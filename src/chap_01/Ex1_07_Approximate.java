@@ -1,4 +1,4 @@
-package chap_1;
+package chap_01;
 
 public class Ex1_07_Approximate {
   public static void main(String[] args) {

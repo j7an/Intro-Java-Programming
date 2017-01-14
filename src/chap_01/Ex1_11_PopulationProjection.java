@@ -12,7 +12,7 @@ values involved in the division must be a number with a decimal point. For
 example, 5.0 / 4 is 1.25 and 10 / 4.0 is 2.5.
 */
 
-package chap_1;
+package chap_01;
 
 public class Ex1_11_PopulationProjection {
   public static void main(String[] args) {
